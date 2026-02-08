@@ -1,7 +1,7 @@
 # Hi, I'm Jabeer Patlaveeti 👋
 ### Data Analyst | Business Analyst | Power BI Developer
 
-Analytical Data Professional specialized in **Power BI**, **SQL**, and **Python**. [cite_start]Experienced in transforming complex datasets into actionable insights through DAX modeling and KPI reporting[cite: 7, 8].
+Analytical Data Professional specialized in **Power BI**, **SQL**, and **Python**. [cite_start]Experienced in transforming complex datasets into actionable insights through DAX modeling and KPI reporting.
 
 ---
 
