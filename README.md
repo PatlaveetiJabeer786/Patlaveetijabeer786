@@ -54,7 +54,7 @@ I'm a **Data Analyst** based in **Bengaluru, India** — specializing in turning
 > Every project follows: **Real Business Problem → Data Action → Measurable Outcome → What to STOP → Final Recommendation**
 
 ### 🔴 Project 01 — Blinkit Sales & Performance Analysis
-**`SQL` `Python` `Power BI` `Excel`** | *TCS Group Simulation*
+**`SQL` `Python` `Power BI` `Excel`** | 
 
 > **Business Problem:** 8,500+ SKUs across outlet tiers with no data on which inventory earns vs. drains working capital.
 
@@ -68,7 +68,7 @@ I'm a **Data Analyst** based in **Bengaluru, India** — specializing in turning
 ---
 
 ### 🔴 Project 02 — Customer Shopping Behavior Analysis
-**`SQL` `Python` `Power BI`** | *Accenture Simulation*
+**`SQL` `Python` `Power BI`** | 
 
 > **Business Problem:** Marketing budget spread equally across all segments with no ROI evidence per segment.
 
